@@ -1,0 +1,10 @@
+C:\Users\buket\source\repos\MostFrequentCharacter\MostFrequentCharacter\bin\Debug\MostFrequentCharacter.exe.config
+C:\Users\buket\source\repos\MostFrequentCharacter\MostFrequentCharacter\bin\Debug\MostFrequentCharacter.exe
+C:\Users\buket\source\repos\MostFrequentCharacter\MostFrequentCharacter\bin\Debug\MostFrequentCharacter.pdb
+C:\Users\buket\source\repos\MostFrequentCharacter\MostFrequentCharacter\obj\Debug\MostFrequentCharacter.csprojAssemblyReference.cache
+C:\Users\buket\source\repos\MostFrequentCharacter\MostFrequentCharacter\obj\Debug\MostFrequentCharacter.Form1.resources
+C:\Users\buket\source\repos\MostFrequentCharacter\MostFrequentCharacter\obj\Debug\MostFrequentCharacter.Properties.Resources.resources
+C:\Users\buket\source\repos\MostFrequentCharacter\MostFrequentCharacter\obj\Debug\MostFrequentCharacter.csproj.GenerateResource.cache
+C:\Users\buket\source\repos\MostFrequentCharacter\MostFrequentCharacter\obj\Debug\MostFrequentCharacter.csproj.CoreCompileInputs.cache
+C:\Users\buket\source\repos\MostFrequentCharacter\MostFrequentCharacter\obj\Debug\MostFrequentCharacter.exe
+C:\Users\buket\source\repos\MostFrequentCharacter\MostFrequentCharacter\obj\Debug\MostFrequentCharacter.pdb
